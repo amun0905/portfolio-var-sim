@@ -44,5 +44,5 @@ It then backtests these models with 1-day and 10-day horizons using Kupiec tests
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio-var-sim.git
+git clone https://github.com/amun0905/portfolio-var-sim.git
 cd portfolio-var-sim

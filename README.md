@@ -20,9 +20,3 @@ Each approach is evaluated for both **1-day** and **10-day scaled VaR** using th
 **Key result:**  
 The **lognormal approach** consistently performs best, aligning most closely with expected exceedance frequencies both with and without scaling.
 
----
-
-## ⚙️ Requirements
-
-```bash
-pip install numpy pandas matplotlib scipy
